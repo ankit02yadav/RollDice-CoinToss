@@ -1,4 +1,4 @@
-# 🎲 NumPy Simulation Projects
+# 🎲 NumPy Simulation Projects 
 
 This repository contains two beginner-friendly simulation projects created using **NumPy** in a **Jupyter Notebook** environment. The goal of these projects is to explore basic probability concepts through simulations.
 
